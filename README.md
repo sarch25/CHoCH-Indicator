@@ -7,7 +7,7 @@ I created and incorporated a Change of Character (CHoCH) indicator into trading 
 ### Skills Learned
 
 - Developing custom technical analysis indicators in Python
-- Integrating indicators into trading strategies for enhanced decision-making
+- Integrating indicators into trading strategies for enhanced decision-making in Python
 - Utilizing libraries for data analysis, visualization, and scientific computing in financial applications
   
 ### Tools Used
