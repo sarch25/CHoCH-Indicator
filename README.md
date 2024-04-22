@@ -1,28 +1,24 @@
 # CHoCH Indicator
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-Driven and analytical trader with a deep interest in developing and implementing effective trading indicators. Seeking opportunities to leverage my expertise in Python programming to create and seamlessly integrate the Change of Character (CHoCH) indicator into trading strategies. This innovative indicator, based on price movements such as High, Low, Higher Highs, Higher Lows, Lower Highs, and Lower Lows across previous candles, offers invaluable insights into market trends. By focusing on market dynamics, the CHoCH indicator empowers traders to make well-informed decisions, enhancing trading performance and profitability. Through this project, I aim to contribute to the trading community by providing a valuable tool for assessing market trends and optimizing trading strategies.
+I created and incorporated a Change of Character (CHoCH) indicator into trading strategy using Python programming, giving myself an effective tool for examining market patterns. The CHoCH indicator provides useful insights into market dynamics by analyzing price changes throughout prior candles, including Highs, Lows, Higher Highs, Higher Lows, Lower Highs, and Lower Lows. I developed a flexible indicator that improves trading performance and profitability by spotting changes in market character. This helps traders make well-informed decisions and maximize their trading strategies.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
-
+- Developing custom technical analysis indicators in Python
+- Integrating indicators into trading strategies for enhanced decision-making
+- Utilizing libraries for data analysis, visualization, and scientific computing in financial applications
+  
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Pandas and NumPy for data manipulation and analysis
+- Pandas TA for technical analysis indicators
+- Plotly for visualization of trading signals
+- SciPy for scientific computing tasks
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+
 
 ![Screenshot 2024-04-08 102727](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/324ef9ce-ee5f-4882-96eb-ae5ab8a22def)
 
