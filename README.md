@@ -1,6 +1,6 @@
 # CHoCH Indicator
 
-## Objective
+## Summary
 
 I created and incorporated a Change of Character (CHoCH) indicator into trading strategy using Python programming, giving myself an effective tool for examining market patterns. The CHoCH indicator provides useful insights into market dynamics by analyzing price changes throughout prior candles, including Highs, Lows, Higher Highs, Higher Lows, Lower Highs, and Lower Lows. I developed a flexible indicator that improves trading performance and profitability by spotting changes in market character. This helps traders make well-informed decisions and maximize their trading strategies.
 
