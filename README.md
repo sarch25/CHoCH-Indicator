@@ -33,9 +33,12 @@ I created and incorporated a Change of Character (CHoCH) indicator into trading 
 ![Screenshot 2024-04-08 102515](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/cf96d356-b4a6-4d3a-8f3e-153be9e6b148)
 
 ![Screenshot 2024-04-08 102455](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/ba881f04-1209-4a3a-9e9a-ee15049100e4)
+#
+
+#### This screenshot displays a Python code snippet designed to detect trends based on EMA (Exponential Moving Average) signals. The script iterates through rows of a DataFrame, analyzing a defined number of "backcandles" to determine whether the price remains consistently above or below the EMA line. Based on these conditions, it assigns trend signals (uptrend, downtrend, or neutral) to a new column, EMASignal, in the DataFrame.
 
 ![Screenshot 2024-04-08 102438](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/69db915c-37d1-44f2-9cc2-63aae2cd20c6)
-
+#
 ![Screenshot 2024-04-08 102419](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/d6746769-db7a-4dec-a6fd-e4c0a99cb08e)
 
 
