@@ -19,7 +19,7 @@ I created and incorporated a Change of Character (CHoCH) indicator into trading 
 - Plotly for visualization of trading signals
 - SciPy for scientific computing tasks
 
-## Steps
+## Images
 
 
 ![Screenshot 2024-04-08 102727](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/324ef9ce-ee5f-4882-96eb-ae5ab8a22def)
