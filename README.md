@@ -2,7 +2,17 @@
 
 ## Summary
 
-I created and incorporated a Change of Character (CHoCH) indicator into trading strategy using Python programming, giving myself an effective tool for examining market patterns. The CHoCH indicator provides useful insights into market dynamics by analyzing price changes throughout prior candles, including Highs, Lows, Higher Highs, Higher Lows, Lower Highs, and Lower Lows. I developed a flexible indicator that improves trading performance and profitability by spotting changes in market character. This helps traders make well-informed decisions and maximize their trading strategies.
+The Change of Character (CHoCH) indicator is a Python-based tool for identifying potential trend reversals in market structure. It works by analyzing key price movements, including Highs, Lows, Higher Highs (HH), Higher Lows (HL), Lower Highs (LH), and Lower Lows (LL). A CHoCH occurs when:
+
+- In an Uptrend, the price breaks below the most recent Higher Low (HL), signaling a potential shift to a downtrend.
+- In a Downtrend, the price breaks above the most recent Lower High (LH), indicating a possible move to an uptrend.
+
+This indicator provides traders with insights into market dynamics, allowing them to identify reversals and make informed trading decisions.
+
+Features of the CHoCH Indicator:
+- Dynamic Analysis: Tracks price changes across previous candles to detect shifts in market structure.
+- Trend Signals via EMA: Utilizes Exponential Moving Average (EMA) signals to classify trends as uptrend, downtrend, or neutral by checking price consistency above or below the EMA.
+- Pivot Identification: Implements a custom Python function (isPivot) to detect pivot (fractal) points, classifying candles as pivot highs, lows, or both based on neighboring price data.
 
 ![Screenshot 2024-04-08 102608](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/df31afee-557f-4f55-adc1-764dfcfe7d7b)
 
