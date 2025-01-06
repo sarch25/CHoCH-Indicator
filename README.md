@@ -43,7 +43,7 @@ Features of the CHoCH Indicator:
 ![Screenshot 2024-04-08 102515](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/cf96d356-b4a6-4d3a-8f3e-153be9e6b148)
 #
 
-### This screenshot shows a Python function, isPivot, designed to identify pivot or fractal points in a dataset. The function takes two parameters: the index of a candle and a window size. It evaluates whether the given candle represents a pivot high, pivot low, both, or neither by comparing its high and low values to neighboring candles within the specified window. The function returns a value to classify the pivot type, making it useful for technical analysis in trading strategies.
+#### This screenshot shows a Python function, isPivot, designed to identify pivot or fractal points in a dataset. The function takes two parameters: the index of a candle and a window size. It evaluates whether the given candle represents a pivot high, pivot low, both, or neither by comparing its high and low values to neighboring candles within the specified window. The function returns a value to classify the pivot type, making it useful for technical analysis in trading strategies.
 ![Screenshot 2024-04-08 102455](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/ba881f04-1209-4a3a-9e9a-ee15049100e4)
 #
 
