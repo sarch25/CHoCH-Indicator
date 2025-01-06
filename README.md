@@ -40,14 +40,6 @@ This indicator provides traders with insights into market dynamics, allowing the
 ![Screenshot 2024-04-08 102455](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/ba881f04-1209-4a3a-9e9a-ee15049100e4)
 #
 
-![Screenshot 2024-04-08 102701](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/a4c87cfc-7c15-44b0-84e7-b846442ed8b8)
-
-![Screenshot 2024-04-08 102637](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/11250b8e-a4f7-44b2-8ae0-0fc55d1351cb)
-
+#### This chart visually represents price movements using candlesticks, with key pivot points highlighted by purple dots. The candlesticks illustrate the high and lows over time, indicating market trends and fluctuations. The purple dots correspond to detected pivot points, which are potential turning points in the market structure.
 ![Screenshot 2024-04-08 102608](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/df31afee-557f-4f55-adc1-764dfcfe7d7b)
-
-![Screenshot 2024-04-08 102515](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/cf96d356-b4a6-4d3a-8f3e-153be9e6b148)
-#
-
-![Screenshot 2024-04-08 102419](https://github.com/sarch25/CHoCH-Indicator/assets/130470960/d6746769-db7a-4dec-a6fd-e4c0a99cb08e)
 #
